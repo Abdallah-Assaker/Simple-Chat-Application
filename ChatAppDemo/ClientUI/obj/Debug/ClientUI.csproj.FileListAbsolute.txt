@@ -1,0 +1,12 @@
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\bin\Debug\ClientUI.exe.config
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\bin\Debug\ClientUI.exe
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\bin\Debug\ClientUI.pdb
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\obj\Debug\ClientUI.csproj.AssemblyReference.cache
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\obj\Debug\ClientUI.csproj.SuggestedBindingRedirects.cache
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\obj\Debug\ClientUI.ClientForm.resources
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\obj\Debug\ClientUI.Form1.resources
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.cache
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\obj\Debug\ClientUI.csproj.CoreCompileInputs.cache
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\obj\Debug\ClientUI.exe
+A:\iTi\C#\Assignments\d11\chatDemo\ServerUI\ClientUI\obj\Debug\ClientUI.pdb
